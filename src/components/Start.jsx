@@ -10,7 +10,6 @@ function Start() {
     <div className="content" id="start">
       <p style={{color: 'blue'}}>나와 닮은 짱구 캐릭터 테스트</p>
       <div style={{
-        width: '100vw',
         display: 'flex',
         justifyContent: 'center',
         gap: '20px'
